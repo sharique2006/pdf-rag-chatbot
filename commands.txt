@@ -1,0 +1,5 @@
+create environment-  python -m venv venv
+activate virtual environment in mac-  source venv/bin/activate
+activate virtual environment in windows- .\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+streamlit run app/main.py
